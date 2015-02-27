@@ -11,9 +11,9 @@ Am      3
 ;   nr type resnr residu atom cgnr   charge    mass    
     1  N3   1       Am    N3   1      0.12    14.007 
     2  C1   1       Am    C1   2     -0.17    12.011
-    3  C2   1       Am    C2   3      0.01    12.011
+    3  CE   1       Am    C2   3     -0.05    12.011 ; C2=CE q(C2)=0.01, q(CE)=-0.05 
     4  C1   1       Am    C1   4     -0.17    12.011
-    5  C2   1       Am    C2   5      0.01    12.011
+    5  CE   1       Am    C2   5     -0.05    12.011 ; C2=CE q(C2)=0.01, q(CE)=-0.05 
     6  H1   1       Am    H1   2      0.13     1.008
     7  H1   1       Am    H1   2      0.13     1.008
     8  H1   1       Am    H1   3      0.13     1.008
